@@ -236,4 +236,13 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="premium_rose_dark_title">Premium Rose Dark</string>
     <string name="premium_rose_light_title">Premium Rose Light</string>
 
+    <!-- Community Wallpapers -->
+    <string name="community_wallpapers">RisingOS Community Wallpapers</string>
+    <string name="community_wallpaper1_title">Community Wallpaper 1</string>
+    <string name="community_wallpaper2_title">Community Wallpaper 2</string>
+    <string name="community_wallpaper3_title">Community Wallpaper 3</string>
+    <string name="community_wallpaper4_title">Community Wallpaper 4</string>
+    <string name="community_wallpaper5_title">Community Wallpaper 5</string>
+    <string name="community_wallpaper6_title">Community Wallpaper 6</string>
+
 </resources>

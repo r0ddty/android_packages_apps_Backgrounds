@@ -645,4 +645,30 @@
             title="@string/premium_rose_light_title" />
     </category>
 
+    <category id="Community_Wallpapers" title="@string/community_wallpapers">
+        <static-wallpaper
+            id="community_wallpaper1"
+            src="@drawable/community_wallpaper1"
+            title="@string/community_wallpaper1_title" />
+        <static-wallpaper
+            id="community_wallpaper2"
+            src="@drawable/community_wallpaper2"
+            title="@string/community_wallpaper2_title" />
+        <static-wallpaper
+            id="community_wallpaper3"
+            src="@drawable/community_wallpaper3"
+            title="@string/community_wallpaper3_title" />
+        <static-wallaper
+            id="community_wallpaper4"
+            src="@drawable/community_wallpaper4"
+            title="@string/community_wallpaper4_title" />
+        <static-wallpaper
+            id="community_wallpaper5"
+            src="@drawable/community_wallpaper5"
+            title="@string/community_wallpaper5_title" />
+        <static-wallpaper
+            id="community_wallpaper6"
+            src="@drawable/community_wallpaper6"
+            title="@string/community_wallpaper6_title" />
+    </category>
 </resources>
